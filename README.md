@@ -1,2 +1,1 @@
-flappybird
-#flappy bird c++
+flappy bird c++
